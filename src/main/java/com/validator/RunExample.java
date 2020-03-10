@@ -1,5 +1,7 @@
-import validator.Validator;
-import validator.ValidatorExample;
+package com.validator;
+
+import com.validator.validatorExample.Validator;
+import com.validator.validatorExample.ValidatorExample;
 
 public class RunExample {
 

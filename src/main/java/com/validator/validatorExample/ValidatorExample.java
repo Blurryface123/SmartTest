@@ -1,4 +1,4 @@
-package validator;
+package com.validator.validatorExample;
 
 import com.google.common.primitives.Bytes;
 

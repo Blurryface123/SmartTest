@@ -1,4 +1,4 @@
-package validator;
+package com.validator.validatorExample;
 
 /**
  * Implementations are capable of verifying whether a specific message is valid.
